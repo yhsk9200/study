@@ -1,2 +1,2 @@
 # study
-gitgub study
+github study
